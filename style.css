@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: mistyrose;
+    color: mistyrose;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-size: 400%;
+    text-align: center;
+    color: rgb(47, 40, 92);
+}
+
+#main {
+    font-size: 200%;
+    padding: 40px 60px 40px 60px;
+    margin: auto;
+    width: 75%;
+    height: 1425px;
+    background-color: darkslateblue;
+    border-radius: 10px 10px 10px 10px;
+}
+
+li {
+    margin: 35px 0;
+    list-style: none;
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    color: rgb(47, 40, 92);
+}
+
+p span {
+    background-color: gold;
+    color: black;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.download {
+    font-size: larger;
+    height: 40px;
+    width: 120px;
+    color: black;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(255, 196, 0);
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 20px;
+}
+
+/* U+258F U+2595*/
+
+.yellow {
+    border-left: 6px solid gold;
+    padding-left: 20px;
+    margin: 0px;
+    color: gold;
+    margin-left: -23px;
+}
+
+
+.download:hover {
+    color: yellow;
+    background-color: brown;
+}
